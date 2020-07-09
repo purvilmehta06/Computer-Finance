@@ -1,2 +1,2 @@
-# Computer-Finance-
+# Computer-Finance
 This course was offered in my BTech 3rd year sem 6. The course is about the computation of put option and call option using the simulation power. How to predict the Stock Price after some amount of time, what will be the value of american option or europian option at any given time.. etc are the questions which can be answered. Also random walk, probability theory, finance background were the key aspects of this course.  
